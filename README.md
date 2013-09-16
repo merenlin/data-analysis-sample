@@ -1,4 +1,4 @@
-analysis-skeleton
+data-analysis-sample
 =================
 
-Sample directory structure for a data analysis project in Python
+Sample project structure for a data analysis project in Python. 
